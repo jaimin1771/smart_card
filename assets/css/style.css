@@ -75,7 +75,7 @@ body {
 }
 
 .profile-section {
-    margin-top: 120px;
+    margin-top: 30px;
     text-align: center;
 }
 
@@ -102,11 +102,12 @@ body {
 
 .details {
     padding: 0 20px;
+    text-align: center;
 }
 
 .detail-item {
+    text-align: center;
     display: flex;
-    justify-content: space-between;
     margin-bottom: 15px;
 }
 
@@ -118,6 +119,7 @@ body {
 .value {
     color: #ffffff;
     opacity: 0.8;
+    text-align: center;
     font-size: 14px;
 }
 
